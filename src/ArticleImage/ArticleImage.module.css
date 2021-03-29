@@ -1,0 +1,13 @@
+.img{
+
+ width: 220px;
+ height: 150px;
+
+ border-style: solid;
+ border-width: 0.7rem;
+ border-radius: 50%;
+ border-color: rgb(145, 8, 45);
+
+ margin-bottom: 1.5rem;
+
+ }
