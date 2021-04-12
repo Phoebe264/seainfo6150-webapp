@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <img
+    alt="You can take a pie on a plane"
+    class="image"
+    src="https://cdn.cnn.com/cnnnext/dam/assets/170124150859-beautiful-india-kerala-super"
+  />
+</div>
+`;
